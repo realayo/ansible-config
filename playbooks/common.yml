@@ -11,6 +11,8 @@
       state: latest
 
 
+# ----------------------------------------
+
 - name: update LB server
   hosts: lb
   remote_user: ubuntu
